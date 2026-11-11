@@ -1,0 +1,4 @@
+Coloque aqui as imagens de exemplo.
+Rode "python baixar_exemplos.py" para baixar 28 fotos do Pexels (licença livre).
+Nomeie como <emocao>_<n>.jpg (feliz, triste, raiva, surpresa, medo, nojo, neutro)
+para o app mostrar a emoção esperada.

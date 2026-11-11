@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart          # para a API receber arquivos (UploadFile)
+pydantic
+streamlit
+requests
+pandas
+numpy
+pillow
+opencv-python-headless<5   # OpenCV 5 tirou o CascadeClassifier do pacote principal
+transformers
+torch
